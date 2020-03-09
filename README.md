@@ -7,6 +7,7 @@ You need to create your own appsettings.json file with your key for the API we u
 Exemple for the appsettings.json file : 
 
 {
+
   "Logging": {
     "LogLevel": {
       "Default": "Information",
