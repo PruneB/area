@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/girafe/.dotnet/store/|arch|/|tfm|",
+      "/home/girafe/.nuget/packages"
+    ]
+  }
+}

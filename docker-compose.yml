@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  api:
+    build: ./DAPI
+    container_name: area_api
+    restart: always
+    ports:
+      - "5001:5001"
+  front:
+    build: ./area-front
+    container_name: area_front
+    restart: always
+    ports:
+      - "3000:3000"
