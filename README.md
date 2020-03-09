@@ -4,7 +4,7 @@ A dashboard made with my working group at Epitech.
 
 You need to create your own appsettings.json file with your key for the API we use.
 
-Exemple for the appsettings.json file : 
+example for the appsettings.json file : 
 
 {
 
